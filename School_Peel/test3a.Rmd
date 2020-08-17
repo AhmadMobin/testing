@@ -1,0 +1,35 @@
+---
+title: "Statistical Analysis in Canada's Mental Health Field"
+author: "Ahmad Mobin, MPH<br><span style = 'font-size: 50%;'> University of Saskatchewan<br> School of Public Health <br></span>"
+date: '18-Aug-2018<br><br> `r icon::fa("link")` [databilityconsulting.com](https://databilityconsulting.com/) <br>`r icon::fa("linkedin")` [ahmad-mobin](https://www.linkedin.com/in/ahmad-mobin/) <br>`r icon::fa("twitter")` [ahmad_m_mobin](https://twitter.com/ahmad_m_mobin)'
+output:
+  xaringan::moon_reader:
+    css: [default, rladies, default-fonts]
+    nature:
+      titleSlideClass: ["left", "middle", "inverse"]
+---
+
+# Introduce yourself!
+> My name is Alison and I am a Data Scientist & Professional Educator at RStudio. I live in Portland, Oregon with my husband, daughter, and our sourdough starter.
+---
+# Find me at...
+All the details...
+
+---
+class: center, middle
+# Slide with centered content in the middle
+My name is Alison. I like hot toddies, `#rdogladies`, and babies.
+---
+
+class: center, middle 
+# Slide with some aligned text
+My name is Alison. I like hot toddies, `#rdogladies`,...
+.left[and babies.]
+---
+
+class: center, middle 
+# Hi there, with an image
+My name is Alison. I like hot toddies, 
+`#rdogladies`, and
+![Image of Momtocat](http://bit.ly/momtocat)
+---

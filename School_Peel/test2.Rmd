@@ -1,0 +1,37 @@
+---
+title: "The Life & Times of a Reproducible Clinical Project in R"
+author: "Jennifer L Thompson, MPH<br>
+<span style = 'font-size: 50%;'>
+Vanderbilt University Medical Center<br>
+Department of Biostatistics + Center for Critical Illness, 
+Brain Dysfunction & Survivorship</span>"
+date: 'R/Medicine 2018<br><br>
+output:
+  xaringan::moon_reader:
+    nature:
+      titleSlideClass: ["left", "middle", "inverse"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

@@ -1,0 +1,54 @@
+---
+title: "<br>Statistical Analysis in Canada's Mental Health Field"
+date: '18-Aug-2018<br><br> `r icon::fa("link")` [databilityconsulting.com](https://databilityconsulting.com/) <br>`r icon::fa("linkedin")` [ahmad-mobin](https://www.linkedin.com/in/ahmad-mobin/) <br>`r icon::fa("twitter")` [ahmad_m_mobin](https://twitter.com/ahmad_m_mobin)'
+output: 
+  revealjs::revealjs_presentation:
+    theme: black
+    highlight: monochrome
+    center: true
+  transition: fade
+---
+## A background page {data-background-iframe='https://codingclubuc3m.rbind.io'}
+
+## {data-background="http://img1.wikia.nocookie.net/__cb20100706023807/familyguy/images/c/c7/Tauntaun.png"}
+
+## Use a zoom transition {data-transition="zoom"}
+
+> My name is Alison and I am a Data Scientist & Professional Educator at RStudio. I live in Portland, Oregon with my husband, daughter, and our sourdough starter.
+
+## Getting up
+
+```{r eval= TRUE, echo=FALSE, fig.align = "center",out.width = "85%",out.height = "75%"}
+plot(cars)
+```
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
+
+# tt
+
+<div style="display: inline-block; width: 50%; vertical-align: top;">
+
+- Get in bed
+- Count sheep
+</div>
+
+</div>
+</div>
